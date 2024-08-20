@@ -1,0 +1,15 @@
+{
+  "name": "yout",
+  "version": "1.0.0",
+  "description": "A backend for yout",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript",
+    "backend"
+  ],
+  "author": "Aman Negi",
+  "license": "ISC"
+}
